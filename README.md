@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasGENJEH
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning Java, python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, golang
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me IG: fachri_if
 
 <!---
